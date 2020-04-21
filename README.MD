@@ -6,3 +6,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 
 # Pycharm MySQL database
 ![pycharm MySql](screenshots/Screenshot(105).png)
+
+# local:5000
+![website](screenshots/Screenshot(117).png)
